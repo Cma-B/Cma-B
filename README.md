@@ -1,6 +1,11 @@
 ### Hello There!
 My name is Sima, and I'm a full-stack developer who currently lives in Stockholm, Sweden. Following the Agile methodology, I  pick a bite-size cycle of work to speed up production and make a constant revision. Most importantly, I  never forget working based on test-driven-development.
 
+- :fire: Always on fire to discover deeper aspects of programming
+- :muscle: Constantly looking to collaborate on interesting projects
+- :flashlight: Continuously chasing for new experiences
+
+
 ### Languages and Tools:
 JavaScript | React | React Native <br />
 Ruby | Ruby on Rails | NodeJS <br />
