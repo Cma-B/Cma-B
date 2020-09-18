@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Cma-B's github stats](https://github-readme-stats.vercel.app/api?username=Cma-B)](https://github.com/Cma-B/github-readme-stats)
 
 <!--
 **Cma-B/Cma-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
