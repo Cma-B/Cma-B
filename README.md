@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello There!
+#### My name is Sima and I m a full-stack developer who currently lives in Stockholm, Sweden.
+
 [![Cma-B's github stats](https://github-readme-stats.vercel.app/api?username=Cma-B)](https://github.com/Cma-B/github-readme-stats)
 
 <!--
