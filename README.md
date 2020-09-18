@@ -1,5 +1,5 @@
 ### Hello There!
-#### My name is Sima and I'm a full-stack developer who currently lives in Stockholm, Sweden.
+My name is Sima, and I'm a full-stack developer who currently lives in Stockholm, Sweden. Following the Agile methodology, I  pick a bite-size cycle of work to speed up production and make a constant revision. Most importantly, I  never forget working based on test-driven-development.
 
 [![Cma-B's github stats](https://github-readme-stats.vercel.app/api?username=Cma-B)](https://github.com/Cma-B/github-readme-stats)
 
