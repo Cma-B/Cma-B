@@ -24,7 +24,9 @@ CI(SEMAPHORE) | CD(Netlify & Heroku ...)
 <br/> <br/>
 
 [![Cma-B's github stats](https://github-readme-stats.vercel.app/api?username=Cma-B)](https://github.com/Cma-B/github-readme-stats)
-
+<br /><br />
+#### My posts on Medium
+[![Sima Boreiri Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=sima.boreiri)](https://medium.com/@sima.boreiri)
 <!--
 **Cma-B/Cma-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
